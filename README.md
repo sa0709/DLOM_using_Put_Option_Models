@@ -129,5 +129,3 @@ If you want to add more valuation models or improve Excel formatting, feel free 
 ## 📜 License
 
 This project is licensed under the MIT License — free to use, modify, and distribute.
-✅ Usage GIF
-Just tell me!
